@@ -1,0 +1,13 @@
+.logo{
+    height:60px;
+    width:60px;
+    margin:10px;
+}
+.header_style{
+    display:flex;
+    align-items: center;
+    color:white;
+    background-color:black;
+    height:70px;
+    width:100%;
+}
